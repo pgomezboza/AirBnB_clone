@@ -6,11 +6,11 @@ footer {
     position: fixed;
     bottom: 0;
     display: flex;
-    justify-content: center;
+	justify-content: center;
 }
 
-footer p {
+footer .footer_text {
     display: flex;
-    justify-content: center;
     align-items: center;
+	justify-content: center;
 }
